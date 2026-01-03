@@ -1,4 +1,4 @@
-# Data Drift Detection (Hyderabad)
+# Data Drift Detection
 
 This project focuses on detecting **data drift** using simple, reliable statistical methods.
 The goal is to understand how data distributions change over time and how those changes can
